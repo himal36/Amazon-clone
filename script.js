@@ -35,3 +35,5 @@ function updateCartCount(){
 renderProduct();
 updateCartCount();
 0
+
+
